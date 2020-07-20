@@ -39,15 +39,3 @@ int tcp_accept(int sfd)
 	return new_fd;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
